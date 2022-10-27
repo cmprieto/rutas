@@ -1,4 +1,5 @@
 import React from "react";
+import Test from "./Test";
 
 const Home = () => (
   <div>
@@ -9,6 +10,7 @@ const Home = () => (
       nulla interdum justo. Pellentesque dignissim, sapien et congue rutrum,
       lorem tortor dapibus turpis, sit amet vestibulum eros mi et odio.
     </p>
+    <Test>hola</Test>
   </div>
 );
 
